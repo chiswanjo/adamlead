@@ -7,7 +7,7 @@ const Dashboard = () => {
   return (
     <>
       <Helmet>
-        <title>Dashboard | Pay-Per-Lead Platform</title>
+        <title>Dashboard | Adamlead</title>
         <meta name="description" content="View your purchased leads and account details." />
       </Helmet>
       
