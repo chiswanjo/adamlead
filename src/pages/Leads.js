@@ -7,7 +7,7 @@ const Leads = () => {
   return (
     <>
       <Helmet>
-        <title>Leads | Pay-Per-Lead Platform</title>
+        <title>Leads | Adamlead</title>
         <meta name="description" content="Browse and purchase high-quality leads to grow your business." />
       </Helmet>
       
